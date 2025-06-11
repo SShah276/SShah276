@@ -1,9 +1,3 @@
-<div align="center">
-  <img height="200" src="illinois-fighting-illini-flag.gif" />
-</div>
-
-###
-
 <h2 align="left">👨‍💻  About Me</h3>
 
 ###
@@ -41,6 +35,12 @@
 ###
 
 <p align="left">Future Project Plans:<br> - Linear Regression from Scratch<br> - Titanic Disaster ML Analysis<br> - Creating an AI to play Flappy Bird</p>
+
+###
+
+<div align="center">
+  <img height="100" src="illinois-fighting-illini-flag.gif" />
+</div>
 
 ###
 
