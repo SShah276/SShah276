@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200" src="illinois-fighting-illini-flag.giff" />
+  <img height="200" src="illinois-fighting-illini-flag.gif" />
 </div>
 
 ###
