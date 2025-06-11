@@ -39,7 +39,7 @@
 ###
 
 <div align="center">
-  <img height="80" src="illinois-fighting-illini-flag.gif" />
+  <img height="75" src="illinois-fighting-illini-flag.gif" />
 </div>
 
 ###
