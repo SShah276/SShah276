@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">- 🔭  I'm looking to explore computer and data science through my passion for math and problem-solving<br>- 📚 I'm currently learning how to utilize NumPy, Pandas, and MatPlotLib libraries in Python <br>- </p>
+<p align="left">- 🔭  I'm looking to explore computer and data science through my passion for math and problem-solving<br>- 📚 I'm currently learning how to utilize NumPy, Pandas, and MatPlotLib libraries in Python <br> </p>
 
 ###
 
