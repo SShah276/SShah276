@@ -34,7 +34,7 @@
 
 ###
 
-<p align="left">Future Project Plans:<br> - Linear Regression from Scratch<br> - Titanic Disaster ML Analysis<br> - Creating an AI to play Flappy Bird</p>
+<h1 align="left">Future Project Plans:<br> - Linear Regression from Scratch<br> - Titanic Disaster ML Analysis<br> - Creating an AI to play Flappy Bird</h1>
 
 ###
 
