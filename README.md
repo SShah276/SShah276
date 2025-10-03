@@ -2,7 +2,14 @@
 
 ###
 
-<p align="left">- 🔭  I'm looking to explore all levels of the technology stack through my passion for math and problem-solving<br>- 📚 I'm currently learning focusing on high-level programming; how to utilize NumPy, Pandas, and MatPlotLib libraries in Python. I am working on applying data processing + visualization synchronously with machine learning algorithms and TensorFlow tp solve real-world problems<br> </p>
+<p align="left">- 🔭  I'm looking to explore all levels of the technology stack through my passion for math and problem-solving<br>
+  - 📚 I'm currently learning:   
+  
+  - How operating systems work with RISCV and C
+  - The math behind todays modern data science models like regression, classification, etc.
+  - How to use python libraries for machine learning applications (TensorFlow)
+    
+  <br> </p>
 
 ###
 
@@ -34,8 +41,6 @@
 
 ###
 
-<h4 align="left">Future Project Plans:</h4> 
- <p - Linear Regression from Scratch<br> - Exploratory Data Analysis on NBA Datasets<br> - Titanic Disaster ML Analysis<br> - Creating an AI to play Flappy Bird</p>
 
 ###
 
